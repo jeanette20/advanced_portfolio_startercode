@@ -1,5 +1,7 @@
 /* Nav Bar CSS */
-
+.nav-bar {
+    background: pink;
+}
 
 /* Header CSS */
 
@@ -14,7 +16,9 @@
 
 
 /* Portfolio Item CSS */
-
+.portfolio-grid {
+    background-color: yellow;
+}
 
 
 /* Footer CSS */
