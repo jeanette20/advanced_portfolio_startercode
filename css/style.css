@@ -1,6 +1,18 @@
+body {
+    background: linear-gradient(to right, #d3cbcb, #7caeff); ;
+}
+
+#name {
+    font-family: 'Nunito', sans-serif;
+}
+
+#self {
+    text-align: center;
+}
 /* Nav Bar CSS */
-.nav-bar {
-    background: pink;
+#navbar {
+    text-align: center;
+    
 }
 
 /* Header CSS */
@@ -17,7 +29,7 @@
 
 /* Portfolio Item CSS */
 .portfolio-grid {
-    background-color: yellow;
+    text-align: center;
 }
 
 
